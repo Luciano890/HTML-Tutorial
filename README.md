@@ -2,7 +2,7 @@
 
 ## Menú
 
-- [Etiquetas de Texto](*etiquetas-de-texto)
+- [Etiquetas de Texto](#etiquetas-de-texto)
     - [em](#em)
     - [i](#i)
     - [span](#span)
@@ -10,7 +10,7 @@
 
 ## [Etiquetas de Texto](#etiquetas-de-texto)
 
-* [`<em></em>` Le da enfasis al texto](#em)
+* `<em></em>` Le da enfasis al texto
 
 ```html
 <!-- Ejemplo -->
@@ -21,7 +21,7 @@
 
 ![em](./Img/em.png "em")
 
-* [`<i></i>` Texto en italico](#i)
+* `<i></i>` Texto en italico
 
 ```html
 <!-- Ejemplo -->
