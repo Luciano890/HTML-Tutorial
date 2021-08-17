@@ -1,6 +1,14 @@
 # HTML para dommies
 
-## Etiquetas de Texto
+## Menú
+
+- [Etiquetas de Texto](*etiquetas-de-texto)
+    - [em](#em)
+    - [i](#i)
+    - [span](#span)
+    - [mark](#mark)
+
+## [Etiquetas de Texto](#etiquetas-de-texto)
 
 * `<em></em>` Le da enfasis al texto
 
