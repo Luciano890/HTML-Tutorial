@@ -10,7 +10,7 @@
 
 ## [Etiquetas de Texto](#etiquetas-de-texto)
 
-* `<em></em>` Le da enfasis al texto
+* [`<em></em>` Le da enfasis al texto](#em)
 
 ```html
 <!-- Ejemplo -->
@@ -21,7 +21,7 @@
 
 ![em](./Img/em.png "em")
 
-* `<i></i>` Texto en italico
+* [`<i></i>` Texto en italico](#i)
 
 ```html
 <!-- Ejemplo -->
