@@ -2,8 +2,6 @@
 
 ## Etiquetas de Texto
 
----
-
 * `<em></em>` Le da enfasis al texto
 
 ```html
@@ -151,3 +149,46 @@ ___
 **Salida**
 
 ![Títulos](./Img/h.png "títulos")
+
+___
+
+## Plantilla Semántica Página Web
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles.css">
+    <title>Main</title>
+</head>
+<body>
+    <!-- Plantilla semántica HTML para una página -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Menu 1</a></li>
+                <li><a href="#">Menu 2</a></li>
+                <li><a href="#">Menu 3</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, soluta.</p>
+        </section>
+        <aside>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+        </aside>
+        <article>
+            <span>Hola Mundo!!</span>
+        </article>
+    </main>
+    <footer>
+        <strong>Derechos Luciano 2021</strong>
+    </footer>
+</body>
+</html>
+```
