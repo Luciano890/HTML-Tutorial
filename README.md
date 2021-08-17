@@ -7,8 +7,18 @@
     - [i](#i)
     - [span](#span)
     - [mark](#mark)
+    - [b](#b)
+    - [u](#u)
+    - [strong](#strong)
+    - [small](#small)
+    - [s](#s)
+    - [cite](#cite)
+    - [sup](#sup)
+    - [sub](#sub)
 
 ## [Etiquetas de Texto](#etiquetas-de-texto)
+
+### em
 
 * `<em></em>` Le da enfasis al texto
 
@@ -21,6 +31,8 @@
 
 ![em](./Img/em.png "em")
 
+### i
+
 * `<i></i>` Texto en italico
 
 ```html
@@ -31,6 +43,8 @@
 **Salida**
 
 ![i](./Img/i.png "i")
+
+### span
 
 * `<span></span>` Contenedor de elementos en línia
 
@@ -43,6 +57,8 @@
 
 ![span](./Img/span.png "span")
 
+### mark
+
 * `<mark></mark>` Remarca la relevancia
 
 ```html
@@ -53,6 +69,8 @@ Lorem ipsum dolor <mark>sit amet consectetur.</mark>
 **Salida**
 
 ![mark](./Img/mark.png "mark")
+
+### b
 
 * `<b></b>` Pone la letra en negritas
 
@@ -65,6 +83,8 @@ Lorem ipsum dolor <b>sit amet consectetur.</b>
 
 ![b](./Img/b.png "b")
 
+### u
+
 * `<u></u>` Subraya el texto
 
 ```html
@@ -75,6 +95,8 @@ Lorem ipsum dolor <u>sit amet consectetur.</u>
 **Salida**
 
 ![u](./Img/u.png "u")
+
+### strong
 
 * `<strong></strong>` Importancia del texto
 
@@ -87,6 +109,8 @@ Lorem ipsum dolor <strong>sit amet consectetur.</strong>
 
 ![strong](./Img/strong.png "strong")
 
+### small
+
 * `<small></small>` El texto no tiene importancia
 
 ```html
@@ -97,6 +121,8 @@ Lorem ipsum dolor <small>sit amet consectetur.</small>
 **Salida**
 
 ![small](./Img/small.png "small")
+
+### s
 
 * `<s></s>` El texto se tacha
 
@@ -109,6 +135,8 @@ Lorem ipsum dolor <s>sit amet consectetur.</s>
 
 ![s](./Img/s.png "s")
 
+### cite
+
 * `<cite></cite>` Mención a un proyecto
 
 ```html
@@ -120,6 +148,8 @@ Lorem ipsum dolor <cite>sit amet consectetur.</cite>
 
 ![cite](./Img/cite.png "cite")
 
+### sup
+
 * `<sup></sup>` Superíndice
 
 ```html
@@ -130,6 +160,8 @@ x<sup>2</sup> + 1 = 0
 **Salida**
 
 ![sup](./Img/sup.png "sup")
+
+### sub
 
 * `<sub></sub>` Subíndice
 
