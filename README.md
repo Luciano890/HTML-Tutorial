@@ -125,7 +125,7 @@ x<sup>2</sup> + 1 = 0
 
 ![sup](./Img/sup.png "sup")
 
-* `<sub></sub>` Suberíndice
+* `<sub></sub>` Subíndice
 
 ```html
 <!-- Ejemplo -->
