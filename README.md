@@ -27,7 +27,7 @@
 - [Metadatos Principales](#Metadatos-Principales)
 - [Emmet](#Emmet)
 
-## [Etiquetas de Texto](#etiquetas-de-texto)
+## Etiquetas de Texto
 
 ### em
 
