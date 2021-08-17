@@ -4,7 +4,7 @@
 
 ---
 
-* `<em></em>` le da enfasis al texto
+* `<em></em>` Le da enfasis al texto
 
 ```html
 <!-- Ejemplo -->
@@ -15,7 +15,7 @@
 
 ![em](./Img/em.png "em")
 
-* `<i></i>` texto en italico
+* `<i></i>` Texto en italico
 
 ```html
 <!-- Ejemplo -->
@@ -26,7 +26,7 @@
 
 ![i](./Img/i.png "i")
 
-* `<span></span>` contenedor de elementos en línia
+* `<span></span>` Contenedor de elementos en línia
 
 ```html
 <!-- Ejemplo -->
@@ -125,7 +125,7 @@ x<sup>2</sup> + 1 = 0
 
 ![sup](./Img/sup.png "sup")
 
-* `<sub></sub>` Superíndice
+* `<sub></sub>` Suberíndice
 
 ```html
 <!-- Ejemplo -->
